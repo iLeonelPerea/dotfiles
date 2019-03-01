@@ -1,0 +1,14 @@
+{
+  "phabricator.uri": "https://code.kueski.io/",
+  "config": {
+    "phabricator.uri": "https://code.kueski.io",
+    "https.blindly-trust-domains": [
+      "code.kueski.io"
+    ]
+  },
+  "hosts": {
+    "https://code.kueski.io/api/": {
+      "token": "cli-iawygvxd7jld7lozbfsegdvq7wnq"
+    }
+  }
+}
