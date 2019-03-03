@@ -47,7 +47,7 @@
 	prompt = false
 [github]
 		user = ileonelperea
-		token = 8317088321a14c89e1ee87b8734655bca87fa368
+		token = c0921c44ce66e3f6d9f4c0437ba6878ff6ee3737
 [gitflow "prefix"]
 	feature = feature-
 	release = release-
