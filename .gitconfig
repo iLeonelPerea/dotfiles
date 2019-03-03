@@ -9,7 +9,7 @@
 [merge]
   tool = kdiff3
 [commit]
-	gpgsign = true
+	gpgsign = false
 [sendemail]
 	smtpencryption = tls
 	smtpserver = smtp.gmail.com
@@ -47,7 +47,7 @@
 	prompt = false
 [github]
 		user = ileonelperea
-		token = 057bfef1d32f481e0153bca3e8b647a2e84ab525
+		token = 8317088321a14c89e1ee87b8734655bca87fa368
 [gitflow "prefix"]
 	feature = feature-
 	release = release-
